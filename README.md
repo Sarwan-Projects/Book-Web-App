@@ -25,7 +25,7 @@ This is a simple web application for managing a book collection, built using Jav
   - `BookListServlet.java`: Displays the list of all registered books.
   - `DeleteServlet.java`: Handles the deletion of a book entry.
   - `RegisterServlet.java`: Handles the registration of a new book.
-- `WEB-INF/`: Configuration files like `web.xml` for general settings (like welcome file) and `db.properties` for database configuration.
+- `WEB-INF/`: Configuration files like `web.xml` for general settings (like welcome file).
 
 ## Setup Instructions
 
